@@ -1,0 +1,11 @@
+.banner-under-development {  
+ background-color: #99EEEE; 
+ width: 100%; 
+}
+div#banner-content { 
+ width: 800px; 
+ margin: 0 auto; 
+ padding: 10px; 
+ text-align: center;
+ font-weight: bold;
+}

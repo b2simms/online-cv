@@ -51,11 +51,16 @@ p {
   -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
+.profile {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
 .sidebar-wrapper {
   background: #42A8C0;
   position: absolute;
   right: 0;
-  width: 240px;
+  width: 280px;
   height: 100%;
   min-height: 800px;
   color: #fff;
