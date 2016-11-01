@@ -6,7 +6,7 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Brent Simmons
 tagline: Software Engineer
-pic: profile.jpg  #place a square picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.jpg  #place a picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: brent.simmons@unb.ca
@@ -15,3 +15,5 @@ website: b2simms.github.io/online-cv #do not add http://
 linkedin: brent-simmons
 github: b2simms
 
+#bullet points
+bullet: plus
